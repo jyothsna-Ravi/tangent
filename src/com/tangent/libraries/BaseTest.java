@@ -72,6 +72,10 @@ public class BaseTest
 		Assert.assertEquals(actTitle, expTitle);
 		
 	}
+	public static void verifyPageByComponent()
+	{
+		
+	}
 
 				
 }
